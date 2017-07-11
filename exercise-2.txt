@@ -1,0 +1,9 @@
+--1st statement used
+INSERT INTO Account VALUES ();
+INSERT INTO AddressBook VALUES ();
+INSERT INTO Entry VALUES ();
+ 
+--1st result used
+Query OK, 1 row affected, 3 warnings (0.01 sec)
+Query OK, 1 row affected, 3 warnings (0.01 sec)
+Query OK, 1 row affected, 3 warnings (0.01 sec)
