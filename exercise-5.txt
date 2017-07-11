@@ -1,0 +1,8 @@
+--1st statement used
+ TRUNCATE TABLE Entry;
+
+--1st result used
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> SELECT * FROM Entry;
+Empty set (0.00 sec)
