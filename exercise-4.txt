@@ -1,0 +1,8 @@
+--1st statement used
+UPDATE Account
+    -> SET id=2
+    -> WHERE id=1;
+ 
+--1st result used
+Query OK, 0 rows affected (0.00 sec)
+Rows matched: 0  Changed: 0  Warnings: 0
