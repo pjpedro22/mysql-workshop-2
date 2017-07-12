@@ -1,0 +1,29 @@
+--How many Accounts exist?
+SELECT COUNT(*) FROM Account;
+
++----------+
+| COUNT(*) |
++----------+
+|     1000 |
++----------+
+1 row in set (0.00 sec)
+
+--How many Address Books exist?
+SELECT COUNT(*) FROM AddressBook;
+
++----------+
+| COUNT(*) |
++----------+
+|     1100 |
++----------+
+1 row in set (0.00 sec)
+
+--How many Address Book Entries exist?
+SELECT COUNT(*) FROM Entry;
+
++----------+
+| COUNT(*) |
++----------+
+|     4000 |
++----------+
+1 row in set (0.01 sec)
